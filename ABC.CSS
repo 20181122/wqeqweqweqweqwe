@@ -1,5 +1,15 @@
-P{
-  padding: 0px;
-  margin: 0px;
-  border: 2px solid black
+P:first-child{
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-top: 6px solid black;-
+  border-right: 1px solid red;
+  text-align: center;
+}
+P:nth-child(2){
+
+}
+p:last-child{
+
 }
