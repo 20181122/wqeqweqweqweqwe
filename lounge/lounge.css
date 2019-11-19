@@ -72,3 +72,26 @@ h2 {
 .elixirs h3{
   color: #d12c47;
 }
+.cd {
+  font-style: italic;
+}
+.artist {
+  font-weight: bold;
+}
+.elixirs a:link{
+  color: #007e7e;
+}
+.elixirs a:visited{
+  columns: #333333;
+}
+.elixirs a:hover{
+  background: #f88396;
+  color:#0d5353;
+}
+.1{
+  
+}
+.amazing {
+  width: 200px;
+  float: right;
+}
